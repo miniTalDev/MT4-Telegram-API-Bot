@@ -1,5 +1,5 @@
-# MT5-MT4-Telegram-API-Bot
-MT5-MT4-Telegram-API-Bot is a Bot that communicates with Telegram, and copy all trades from one MT4 or MT5 terminal to Telegram Groups or channel - It support MQL4/MQL5 language.
+# MT4-Telegram-API-Bot
+MT4-Telegram-API-Bot is a Bot that communicates with Telegram, and copy all trades from one MT4 or MT5 terminal to Telegram Groups or channel - It support MQL4/MQL5 language.
 it delivers Trade Signal Alert From MT4 and MT5 Terminal to Telegram, EMail, or the notification terminal
 
 
